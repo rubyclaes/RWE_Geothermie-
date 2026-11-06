@@ -1,0 +1,5 @@
+.venv/
+summaries/
+RW_WW_ohne_leere_Werte.csv
+__pycache__/
+*.py[cod]
